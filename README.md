@@ -1,1 +1,1 @@
-# PostsListing-Android-Application
+Welcome to the PostsListing-Android-Application. This application was developed as a task for internship hiring process where i had to develop a postlisting application to display posts through consuming REST APIs using RETROFIT etc.
